@@ -14,5 +14,6 @@ This project is designed to empower local bakery owners with simple and effectiv
 https://www.kaggle.com/datasets/hosubjeong/bakery-sales/
 
 ### Dashboard
+Dashboard can be filtered by time.
 ![Picture1](https://github.com/agastiayudya/Korean-Bakery-Sales-Dashboard/assets/96803882/d3422ccb-2376-4e84-ac3e-2185ffe2823f)
 
