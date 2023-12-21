@@ -15,5 +15,6 @@ https://www.kaggle.com/datasets/hosubjeong/bakery-sales/
 
 ### Dashboard
 Dashboard can be filtered by time.  
+To run the dashboard please download the excel file.  
 ![Picture1](https://github.com/agastiayudya/Korean-Bakery-Sales-Dashboard/assets/96803882/d3422ccb-2376-4e84-ac3e-2185ffe2823f)
 
