@@ -13,5 +13,6 @@ This project is designed to empower local bakery owners with simple and effectiv
 ### Data
 https://www.kaggle.com/datasets/hosubjeong/bakery-sales/
 
-### File Link
-https://docs.google.com/spreadsheets/d/1FgoUw6ctvkwVvUtukZ3-0ZZ3eWIb6Uig/edit?usp=sharing&ouid=109088444617290424207&rtpof=true&sd=true
+### Dashboard
+![Picture1](https://github.com/agastiayudya/Korean-Bakery-Sales-Dashboard/assets/96803882/d3422ccb-2376-4e84-ac3e-2185ffe2823f)
+
